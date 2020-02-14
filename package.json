@@ -1,5 +1,5 @@
 {
-  "name": "@polrk/docker-graphql-codegen",
+  "name": "@polrk/graphql-codegen",
   "scripts": {
     "codegen": "graphql-codegen --config codegen.yml"
   },
